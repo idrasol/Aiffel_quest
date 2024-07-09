@@ -1,27 +1,46 @@
 # AIFFEL Campus Code Peer Review Templete
-- 코더 : 
-- 리뷰어 :
+- 코더 : 정권영
+- 리뷰어 : 유제민
 
 
 # PRT(Peer Review Template)
-[]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+[ㅇ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
 - 문제에서 요구하는 기능이 정상적으로 작동하는지? 
     - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
-    
-[]  **2. 핵심적이거나 복잡하고 이해하기 어려운 부분에 작성된 설명을 보고 해당 코드가 잘 이해되었나요?**
+    - onPressed: () async {
+    - 	bool isCat = true;               //isCat 변수 생성
+    -   print('isCat = $isCat');
+    -   isCat = false;                   //isCat 변수 false값으로 초기화
+    -   final result = await Navigator.pushNamed(context, '/dog', arguments: false);  //버튼을 눌렀을 때, dogpage로 넘어가도록 Navigator기능 사용. pushNamed를 통해 넘어갈 때 false값을 전달함
+    -   isCat = result as bool;   //dogpage에서 page를 pop할 때 전달한 값을 result로 전달받고, 해당 값을 isCat에 재할당함
+    -   },
+    -   위 코드를 통해 true false 값이 바뀜
+ 
+    -     
+[ㅇ]  **2. 핵심적이거나 복잡하고 이해하기 어려운 부분에 작성된 설명을 보고 해당 코드가 잘 이해되었나요?**
 - 해당 코드 블럭에 doc string/annotation/markdown이 달려 있는지 확인
 - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
 - 주석을 보고 코드 이해가 잘 되었는지 확인
-    - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다. 
+    - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+    - onPressed: () async {
+    - 	bool isCat = true;               //isCat 변수 생성
+    -   print('isCat = $isCat');
+    -   isCat = false;                   //isCat 변수 false값으로 초기화
+    -   final result = await Navigator.pushNamed(context, '/dog', arguments: false);  //버튼을 눌렀을 때, dogpage로 넘어가도록 Navigator기능 사용. pushNamed를 통해 넘어갈 때 false값을 전달함
+    -   isCat = result as bool;   //dogpage에서 page를 pop할 때 전달한 값을 result로 전달받고, 해당 값을 isCat에 재할당함
+    -   },
+    -   true false 값이 바뀌는 것을 자세히 설명해줬습니다.
         
-[]  **3. 에러가 난 부분을 디버깅하여 “문제를 해결한 기록”을 남겼나요? 또는 “새로운 시도 및 추가 실험”을 해봤나요?**
+[ㅇ]  **3. 에러가 난 부분을 디버깅하여 “문제를 해결한 기록”을 남겼나요? 또는 “새로운 시도 및 추가 실험”을 해봤나요?**
 - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
 - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 실험이 기록되어 있는지 확인
-    - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다. 
+    - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+    - 회고부분의 true false 값을 어떻게 변경 하는지 잘 적어 놨습니다.
         
-[]  **4. 회고를 잘 작성했나요?**
+[ㅇ]  **4. 회고를 잘 작성했나요?**
 - 프로젝트 결과물에 대해 배운점과 아쉬운점, 느낀점 등이 상세히 기록 되어 있나요?
 	- 딥러닝 모델의 경우, 인풋이 들어가 최종적으로 아웃풋이 나오기까지의 전체 흐름을 도식화하여 모델 아키텍쳐에 대한 이해를 돕고 있는지 확인
+ - 이번 subQuest를 하면서 어려웠던 점과 어떻게 해결했는지 잘 적어 놨습니다.
 
 
 # 참고 링크 및 코드 개선
