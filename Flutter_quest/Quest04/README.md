@@ -10,6 +10,13 @@
 
 # 프로토타입(Pigma)
 ![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/d2d71438-1a4d-4c10-a2c0-921f458d2671)
-![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/ee083e00-c36e-4bd6-9aea-e8df92501df1)
-![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/7e57422d-8664-4b38-b8ea-b7656da9a1d4)
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/be0d64af-e080-40f5-83fe-86cfec0565ee)
+
+# 페이지구현
+# 1. 메인화면
+# 2. 회원가입화면
+# 3. 회원가입 후 해당 아이디로 접속 환명메시지
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/dc8d4024-4200-451e-9ff2-8e6b76abd512)
+
+
 
