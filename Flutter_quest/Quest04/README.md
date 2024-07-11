@@ -5,15 +5,11 @@
 ![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/179f7fe4-f5cc-4ab1-b640-af50c2157865)
 
 # 앱 와이어프레임(PPT, Pigma)
-## 1. 
 ![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/ab045f00-6512-4b14-ba94-c3052e321c6d)
-## 2.
 ![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/4f0ef317-f8dd-47f0-8c0a-80479032a150)
 
+# 프로토타입(Pigma)
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/d2d71438-1a4d-4c10-a2c0-921f458d2671)
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/ee083e00-c36e-4bd6-9aea-e8df92501df1)
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/7e57422d-8664-4b38-b8ea-b7656da9a1d4)
 
-
-# 참고 링크 및 코드 개선
-```
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
-```
