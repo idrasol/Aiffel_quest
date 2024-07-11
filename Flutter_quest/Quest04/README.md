@@ -1,12 +1,9 @@
-# AIFFEL Campus Code Peer Review Templete
-- 코더 : 
-- 리뷰어 :
+# 스타벅스앱을 만들어보자!
+- 앱정보 : 메인화면, 회원가입화면, 로그인화면 구현
 
+# 앱구조
+![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/179f7fe4-f5cc-4ab1-b640-af50c2157865)
 
-# PRT(Peer Review Template)
-[]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-- 문제에서 요구하는 기능이 정상적으로 작동하는지? 
-    - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
     
 []  **2. 핵심적이거나 복잡하고 이해하기 어려운 부분에 작성된 설명을 보고 해당 코드가 잘 이해되었나요?**
 - 해당 코드 블럭에 doc string/annotation/markdown이 달려 있는지 확인
