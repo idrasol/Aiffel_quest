@@ -21,7 +21,8 @@
 2. 카메라 촬영화면
 3. 갤러리 화면
 4. 제작자 정보 화면
-![image](https://github.com/user-attachments/assets/1e4f5ee9-994c-44bd-8ca5-7a5e94f529aa)
+![image](https://github.com/user-attachments/assets/95b1bdc3-acd7-42cf-906f-4d7bf8434872)
+
 
 
 # 구현영상
