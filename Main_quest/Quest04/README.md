@@ -19,8 +19,9 @@
 # 페이지구현
 1. 메인화면
 2. 카메라 촬영화면
-3. 갤러리 화면
-4. 제작자 정보 화면
+3. 해당 이미지 분석 결과 도출
+4. 갤러리 화면
+5. 제작자 정보 화면
 ![image](https://github.com/user-attachments/assets/95b1bdc3-acd7-42cf-906f-4d7bf8434872)
 
 
