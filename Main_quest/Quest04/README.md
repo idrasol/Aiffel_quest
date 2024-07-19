@@ -4,7 +4,8 @@
 
 
 # 앱 계층도
-![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/179f7fe4-f5cc-4ab1-b640-af50c2157865)
+![image](https://github.com/user-attachments/assets/a91334ee-433a-4121-9213-745b2d31e31c)
+
 
 
 # 앱 와이어프레임(PPT, Pigma)
