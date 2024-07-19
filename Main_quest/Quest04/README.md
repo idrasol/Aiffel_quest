@@ -21,7 +21,8 @@
 2. 카메라 촬영화면
 3. 갤러리 화면
 4. 제작자 정보 화면
-![image](https://github.com/idrasol/Aiffel_Quest/assets/169630890/dc8d4024-4200-451e-9ff2-8e6b76abd512)
+![image](https://github.com/user-attachments/assets/1e4f5ee9-994c-44bd-8ca5-7a5e94f529aa)
+
 
 # 구현영상
 
