@@ -27,9 +27,9 @@
 
 
 # 구현영상
+https://github.com/user-attachments/assets/17a7a1fa-0f3c-43c6-b56a-9e48ee73d6fd
 
 
-https://github.com/idrasol/Aiffel_Quest/assets/169630890/7ec1c9cf-3476-48d4-b6e1-5470f71add1a
 
 
 # 회고
