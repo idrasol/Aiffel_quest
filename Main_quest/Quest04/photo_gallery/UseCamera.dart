@@ -15,7 +15,7 @@ class UseCamera extends StatefulWidget {
 
 // _UseCameraState 클래스 정의 - UseCamera의 상태를 관리
 class _UseCameraState extends State<UseCamera> {
-  int _selectedIndex = 3;  // 선택된 탭의 인덱스
+  int _selectedIndex = 1;  // 선택된 탭의 인덱스
 
   // BottomNavigationBar의 항목이 탭되었을 때 호출되는 메소드
   void _onItemTapped(int index) {
